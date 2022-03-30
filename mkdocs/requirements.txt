@@ -18,7 +18,7 @@ mkdocs-bootswatch==1.0
 mkdocs-git-committers-plugin==0.1.8
 mkdocs-material==4.6.0
 mkdocs-minify-plugin==0.2.1
-mkdocs==1.0.4
+mkdocs==1.2.3
 pep562==1.0
 pymdown-extensions==6.2.1
 requests==2.22.0
